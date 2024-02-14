@@ -1,0 +1,2 @@
+﻿#!/bin/bash
+nohup /usr/local/bin/python3 Refresh-FinderApp.py >&/dev/null &
